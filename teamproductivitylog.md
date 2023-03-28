@@ -1,8 +1,8 @@
 | Issue Title | Story Points | Issue Link | Status | Assigned To | Assigned On | Completed On | Category | Status Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | researching different bootstrap templates and finding one suitable for the project | 3 | https://github.com/NikhilKrishna23/Sprint1/issues/1 | Completed | sassank | 2023-04-01 | - | Feature | found a template |
-| Mobile responsiveness | 2 | https://github.com/NikhilKrishna23/Sprint1/issues/2 | In Progress | Developer B | 2023-04-02 | - | Feature | Testing responsive design on different devices |
-| Login form validation | 1 | https://github.com/NikhilKrishna23/Sprint1/issues/3 | Completed | Developer A | 2023-04-03 | 2023-04-04 | Bug | Added validation logic to login form |
+| Conduct SEO research | 2 | https://github.com/NikhilKrishna23/Sprint1/issues/2 | Completed | Nikhil | 2023-04-02 | - | Feature |  researched on seo |
+| create cross-functional teams and assign project tasks to team members | 1 | https://github.com/NikhilKrishna23/Sprint1/issues/3 | Completed | Nikhil | 2023-04-03 | 2023-04-04 | Bug | tasks assigned |
 | API documentation | 2 | https://github.com/NikhilKrishna23/Sprint1/issues/4 | In Review | Developer B | 2023-04-04 | - | Docs | Draft documentation submitted for review |
 | Automated deployment | 3 | https://github.com/NikhilKrishna23/Sprint1/issues/5 | In Progress | Developer A | 2023-04-05 | - | Devops Task | Setting up CI/CD pipeline |
 | About page content | 1 | https://github.com/NikhilKrishna23/Sprint1/issues/6 | Completed | Developer B | 2023-04-06 | 2023-04-07 | Docs | Added content for about page |
