@@ -9,5 +9,5 @@
 | Clone the project repository and add your team members as collaborators | 2 | https://github.com/NikhilKrishna23/Sprint1/issues/7 | completed | Nikhil | 2023-04-07 | - | Bug | completed |
 | Create Themes, Initiatives, and Epics for the project | 5 | https://github.com/NikhilKrishna23/Sprint1/issues/8 |completed |sassank | 2023-04-08 | - | Feature | Profiling site and optimizing code |
 |Product Development Report Requirements - Create a PowerPoint with Slides to Report on Product| 1 | https://github.com/NikhilKrishna23/Sprint1/issues/9 | Completed |Nikhil | 2023-04-09 | 2023-04-10 | Docs | Added content  |
-| conduct GDPR research | 3 | https://github.com/NikhilKrishna23/Sprint1/issues/10 | completed | sassank | 2023-04-10 | - | Devops Task | Configuring server for deployment |
+| conduct GDPR research | 3 | https://github.com/NikhilKrishna23/Sprint1/issues/10 | completed | Nikhil | 2023-04-10 | - | Devops Task | Configuring server for deployment |
 | Research how to set up the GitHub action for Playwright reporting to share the recorded videos and screenshots of tests | 2 | https://github.com/NikhilKrishna23/Sprint1/issues/11 | completed | sassank| 2023-04-11 | - | Bug | bugs|
