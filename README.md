@@ -25,11 +25,11 @@ A server with SSH access and Node.js installed.
 
 - Deployment Steps:
 
-Connect to the server using SSH.
-Create a new directory for the project: mkdir educational-website.
-Navigate to the newly created directory: cd educational-website.
-Clone the project repository: git clone https://github.com/your-repo-url.git.
-Navigate to the project directory: cd educational-website.
-Install the project dependencies: npm install.
-Build the project using webpack: npm run build.
-Start the Node.js server: npm start.
+- Connect to the server using SSH.
+- Create a new directory for the project: mkdir educational-website.
+- Navigate to the newly created directory: cd educational-website.
+- Clone the project repository: git clone https://github.com/your-repo-url.git.
+- Navigate to the project directory: cd educational-website.
+- Install the project dependencies: npm install.
+- Build the project using webpack: npm run build.
+- Start the Node.js server: npm start.
