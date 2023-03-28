@@ -8,6 +8,6 @@
 | Develop and perform testing with automated tests that can be used to measure site performance in the browser using Playwright | 1 | https://github.com/NikhilKrishna23/Sprint1/issues/6 | in progress | sassank | 2023-04-06 | 2023-04-07 | Docs | Added content |
 | Clone the project repository and add your team members as collaborators | 2 | https://github.com/NikhilKrishna23/Sprint1/issues/7 | completed | Nikhil | 2023-04-07 | - | Bug | completed |
 | Create Themes, Initiatives, and Epics for the project | 5 | https://github.com/NikhilKrishna23/Sprint1/issues/8 |completed |sassank | 2023-04-08 | - | Feature | Profiling site and optimizing code |
-|conduct GDPR research| 1 | https://github.com/NikhilKrishna23/Sprint1/issues/9 | Completed |Nikhil | 2023-04-09 | 2023-04-10 | Docs | Added content for privacy policy page |
-| Server setup | 3 | https://github.com/NikhilKrishna23/Sprint1/issues/10 | In Review | Developer B | 2023-04-10 | - | Devops Task | Configuring server for deployment |
+|Product Development Report Requirements - Create a PowerPoint with Slides to Report on Product| 1 | https://github.com/NikhilKrishna23/Sprint1/issues/9 | Completed |Nikhil | 2023-04-09 | 2023-04-10 | Docs | Added content  |
+| conduct GDPR research | 3 | https://github.com/NikhilKrishna23/Sprint1/issues/10 | completed | sassank | 2023-04-10 | - | Devops Task | Configuring server for deployment |
 | Research how to set up the GitHub action for Playwright reporting to share the recorded videos and screenshots of tests | 2 | https://github.com/NikhilKrishna23/Sprint1/issues/11 | In Progress | sassank| 2023-04-11 | - | Bug | bugs|
